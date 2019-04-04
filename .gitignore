@@ -1,5 +1,5 @@
 __pycache__
-.data_postgres/
-node_modules/
+.data_postgres
+node_modules
 dist/
-env/*
+env/
